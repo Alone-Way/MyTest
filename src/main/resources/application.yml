@@ -1,0 +1,16 @@
+application:
+  title: study-Mongo
+  version: 0.0.0.test ....
+server:
+  port: 8080
+spring:
+  http:
+    encoding:
+      force: true
+  data:
+    mongodb:
+#    ≤ª…Ë÷√√‹¬Î£¨mongo ¬„±º
+      uri: mongodb://localhost:27017/Test
+
+#      …Ë÷√mongo√‹¬Î
+#      uri: mongodb://along:123456@localhost:27017/Test
