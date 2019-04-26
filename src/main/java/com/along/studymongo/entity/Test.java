@@ -2,7 +2,6 @@ package com.along.studymongo.entity;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
-import sun.util.resources.cldr.id.CurrencyNames_id;
 
 import java.util.Date;
 import java.util.List;
